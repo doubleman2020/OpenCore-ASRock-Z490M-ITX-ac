@@ -62,6 +62,6 @@ https://dortania.github.io/OpenCore-Desktop-Guide/
 -------
 CPU，内存，显卡识别正常
 
-![screenshot-1](https://raw.githubusercontent.com/zhkong/OpenCore-ASRock-Z490M-ITX-ac/master/ScreenShot/screenshot-1.png)
+![screenshot-1](https://raw.githubusercontent.com/zhkong/OpenCore-ASRock-Z490M-ITX-ac/master/Screenshot/screenshot-1.png)
 
 
