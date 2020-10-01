@@ -11,7 +11,7 @@ ASRock Z490M-ITX/ac Hackintosh OpenCore
 |Wifi/蓝牙|Broadcom DW1560|
 
 
-macOS Catalina 10.15.6 + macOS Big Sur 10.16 beta6
+macOS Catalina 10.15.6 + macOS Big Sur 10.16 beta9
 
 按照官方指引 Comet Lake 做的引导
 
